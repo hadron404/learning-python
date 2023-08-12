@@ -1,0 +1,3 @@
+fruit = 'sdfsfd'
+
+print(fruit[:])
